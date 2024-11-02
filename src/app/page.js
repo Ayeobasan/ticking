@@ -3,6 +3,7 @@
 import Checkout from "@/components/Checkout";
 import EventDetails from "@/components/EventDetails";
 import EventList from "@/components/EventList";
+// import EventList from "@/components/EventList";
 import { Button } from "@/components/ui/button";
 import { MoonIcon, SunIcon } from "lucide-react";
 import Image from "next/image";
